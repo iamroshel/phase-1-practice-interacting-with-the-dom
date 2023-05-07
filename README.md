@@ -1,4 +1,4 @@
-# Interacting with the DOM using Events
+# Interacting with the DOM using Events c
 
 ## Learning Goals
 
